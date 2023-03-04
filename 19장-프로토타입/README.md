@@ -1,1 +1,6 @@
-# javascript-study
+# 프로토타입
+
+<br/>
+
+> **참고 및 출처**
+> 모던자바스크립트 deep dive 19장 프로토타입
